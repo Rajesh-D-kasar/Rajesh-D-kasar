@@ -50,12 +50,4 @@
 
 ---
 
-# 🧠 LeetCode Stats:
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
-
----
-
-# 👀 Profile Views:
-
 [![](https://komarev.com/ghpvc/?username=Rajesh-D-kasar&icon=0&color=0)](https://visitcount.itsvg.in)
